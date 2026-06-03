@@ -1,6 +1,5 @@
 'use client'
 
-import { useState } from 'react'
 import { SearchPanel } from '@/components/search-panel'
 import { FlightResults } from '@/components/flight-results'
 import { LoadingSpinner } from '@/components/loading-spinner'

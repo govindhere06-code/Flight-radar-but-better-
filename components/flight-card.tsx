@@ -3,7 +3,7 @@
 import { Card, CardContent, CardHeader } from './ui/card'
 import { Badge } from './ui/badge'
 import { type Flight } from '@/types/flight'
-import { MapPin, Clock, Plane } from 'lucide-react'
+import { MapPin, Plane } from 'lucide-react'
 
 interface FlightCardProps {
   flight: Flight
